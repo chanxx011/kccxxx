@@ -2,10 +2,9 @@
 ## sub title
 ### subsub title
 
+# 나의 소개
 안녕하세요 방가방가 ㅎㅇ염
 <img src="1.jpg" /> <br>
-
-# 나의 소개
 
 # 나의 동아리 소개
 
