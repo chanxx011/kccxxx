@@ -12,3 +12,8 @@
 [파이썬 프로그래밍](http://www.python.org)
 
 자바 프로그래밍
+
+# 공모전 수상현황
+전국 대학생 IT대회
+[대상 수상자 발표자료](/presentation.ppt)
+
