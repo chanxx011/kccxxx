@@ -17,3 +17,6 @@
 전국 대학생 IT대회
 [대상 수상자 발표자료](/presentation.pptx)
 
+발표 동영상
+<iframe width="610" height="343" src="https://www.youtube.com/embed/7JKu3J3ym_s" title="선생님..! 농구가 하고 싶어요...🔥🔥: 10-Feet - 第ゼロ感 (Dai Zero Kan) (영화 『THE FIRST SLAM DUNK』 ED) (2023) [가사해석/번역]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
